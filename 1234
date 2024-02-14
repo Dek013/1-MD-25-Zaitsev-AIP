@@ -1,0 +1,2 @@
+for i in rande(1,100)
+  prunt('даня пидор')
